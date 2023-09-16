@@ -13,24 +13,24 @@
 
 + Our project includes the following contents:
 
-   + Using a dataset about "Predict student dropout and academic success​" to building prediction models.
+   + Using a dataset about "Predict student dropout and academic success​" to build prediction models.
      Link dataset: https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
 
    + Handling Imbalanced Dataset by oversampling with SMOTE.
 
    + Applying feature selection by using Kendall's tau.
 
-   + Optimizing parameters of machine learning algorithms (Decision tree, SVM, KNN) by using CMA-ES approach.
+   + Optimizing parameters of machine learning algorithms (Decision tree, SVM, KNN) using CMA-ES approach.
 
    + Evaluating the results after using the above methods with the dataset.
 
 + 🚩**Dataset**: [Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
 
-+  🚩**Source Code**: [Report](https://gitlab.com/thompsondd/predict-students-at-risk-of-dropping-out-and-successful-graduation)
++  🚩**Source Code**: [Code](https://gitlab.com/thompsondd/predict-students-at-risk-of-dropping-out-and-successful-graduation)
 
 + 📝**Details Report**: [Report](https://gitlab.com/thompsondd/predict-students-at-risk-of-dropping-out-and-successful-graduation/-/blob/main/Details_Report.pdf)
 
-+ 📝**Slides Report**: [Report](https://gitlab.com/thompsondd/predict-students-at-risk-of-dropping-out-and-successful-graduation/-/blob/main/Slides_Report.pptx)
++ 📝**Slides Report**: [Slides](https://gitlab.com/thompsondd/predict-students-at-risk-of-dropping-out-and-successful-graduation/-/blob/main/Slides_Report.pptx)
   
 ## AUTHORS
 <a name="Authors"></a>
